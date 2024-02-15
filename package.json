@@ -1,0 +1,8 @@
+{
+  "name": "vedio-hosting",
+  "version": "1.0.0",
+  "description": "video hosting website similar to youtube",
+  "main": "index.js",
+  "author": "Akhilesh Jaguri",
+  "license": "MIT"
+}
