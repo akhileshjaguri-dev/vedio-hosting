@@ -7,7 +7,7 @@
   "author": "Akhilesh Jaguri",
   "license": "MIT",
   "scripts": {
-    "dev": ""
+    "dev": "nodemon src/index.js"
   },
   "devDependencies": {
     "nodemon": "^3.0.3",
